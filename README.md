@@ -1,5 +1,5 @@
 <h1 align="center">Hi, my name is, Jouval Somer</h1>
-<h3 align="center">I have a B.Sc. in applied mathematics and computer science from UiO, I am a passionate and naturally curios person with great willingness to learn and a joy for working on challenging problems.</h3> <br> <br> 
+<h3 align="center">I have a B.Sc. in applied mathematics and computational science from UiO, I am a passionate and naturally curios person with a great willingness to learn and a joy for working on challenging problems.</h3> <br> <br> 
 
 - 🔭 My three latest projects from the course FYS-STK3155 Applied Data Analysis and Machine Learning: 
   - [Regression analysis and resampling methods](https://github.com/JouvalSomer/FYS-STK3155/tree/main/Project%201%20-%20Regression%20analysis%20and%20resampling%20methods) 
