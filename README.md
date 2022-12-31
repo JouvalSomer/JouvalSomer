@@ -1,10 +1,9 @@
-<h1 align="center">Hi, my name is, Jouval Somer</h1>
-<h3 align="center">I have a B.Sc. in applied mathematics and computational science from UiO, I am a passionate and naturally curios person with a great willingness to learn and a joy for working on challenging problems.</h3> <br>
+<h1 align="center">Hi, my name is Jouval Somer</h1>
+<h3 align="center">I have a B.Sc. in applied mathematics and computational science from UiO. I am a passionate and naturally curios person with a great willingness to learn and a joy for working on challenging problems.</h3> <br>
 
-### Projects:
 
-🔭 **My three latest projects from the course FYS-STK3155 Applied Data Analysis and Machine Learning:** 
-  - [**Regression analysis and resampling methods**](https://github.com/JouvalSomer/FYS-STK3155/tree/main/Project%201%20-%20Regression%20analysis%20and%20resampling%20methods) 
+ **🔭 Here are some of my latest projects from the course FYS-STK3155 Applied Data Analysis and Machine Learning:** 
+  - [**Regression analysis and resampling methods**](https://github.com/JouvalSomer/FYS-STK3155/tree/main/Project%201%20-%20Regression%20analysis%20and%20resampling%20methods)
   - [**Classification and Regression, from linear and logistic regression to neural networks**](https://github.com/JouvalSomer/FYS-STK3155/tree/main/Project%202%20-%20Classification%20and%20Regression%2C%20from%20linear%20and%20logistic%20regression%20to%20neural%20networks) 
   - [**An Inverse Physics Informed Neural Network Problem**](https://github.com/JouvalSomer/FYS-STK3155/tree/main/Project%203%20-%20Inverse%20Physics%20Informed%20Neural%20Network%20Problem) <br>
 
