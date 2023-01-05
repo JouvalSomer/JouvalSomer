@@ -3,9 +3,9 @@
 
 
  **🔭 Here are some of my latest projects from the course FYS-STK3155 Applied Data Analysis and Machine Learning:** 
-  - [**Regression analysis and resampling methods**](https://github.com/JouvalSomer/FYS-STK3155/tree/main/Project%201%20-%20Regression%20analysis%20and%20resampling%20methods)
   - [**Classification and Regression, from linear and logistic regression to neural networks**](https://github.com/JouvalSomer/FYS-STK3155/tree/main/Project%202%20-%20Classification%20and%20Regression%2C%20from%20linear%20and%20logistic%20regression%20to%20neural%20networks) 
-  - [**An Inverse Physics Informed Neural Network Problem**](https://github.com/JouvalSomer/FYS-STK3155/tree/main/Project%203%20-%20Inverse%20Physics%20Informed%20Neural%20Network%20Problem) <br>
+  - [**An Inverse Physics Informed Neural Network Problem**](https://github.com/JouvalSomer/FYS-STK3155/tree/main/Project%203%20-%20Inverse%20Physics%20Informed%20Neural%20Network%20Problem) 
+  - [**Regression analysis and resampling methods**](https://github.com/JouvalSomer/FYS-STK3155/tree/main/Project%201%20-%20Regression%20analysis%20and%20resampling%20methods) <br>
 
 #### For further insight into my professional credentials see my CV [here.](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:bf7af042-01c6-31c1-9112-1ed483ec7ea8) <br><br><br>
 
