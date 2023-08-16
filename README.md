@@ -7,7 +7,7 @@
   - [**An Inverse Physics Informed Neural Network Problem**](https://github.com/JouvalSomer/FYS-STK3155/tree/main/Project%203%20-%20Inverse%20Physics%20Informed%20Neural%20Network%20Problem) 
   - [**Regression analysis and resampling methods**](https://github.com/JouvalSomer/FYS-STK3155/tree/main/Project%201%20-%20Regression%20analysis%20and%20resampling%20methods) <br>
 
-#### For further insight into my professional credentials see my CV [here.](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:82063944-323e-3a66-8748-448b82be1f64) <br><br><br>
+#### For further insight into my professional credentials see my CV [here.](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:28a55be6-4644-3fc5-9cd1-5eea02d0799f) <br><br><br>
 
 ### Some of my most used Languages and Tools include:
 <p align="left"> 
