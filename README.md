@@ -14,7 +14,7 @@ I hold a B.Sc. in Applied Mathematics and Computational Science from the Univers
 - FYS-STK3155 - Applied Data Analysis and Machine Learning (Autumn 2022):
     - [**Estimating the diffusion coefficient of an MRI tracer using Physics Informed Neural Networks**](https://github.com/JouvalSomer/FYS-STK3155/tree/main/Project%203%20-%20Inverse%20Physics%20Informed%20Neural%20Network%20Problem) <br><br>
 
-### For further insight into my professional credentials see my CV [here.](https://acrobat.adobe.com/id/urn:aaid:sc:eu:84f99aac-9e90-49ea-8379-8ee4fb672279) <br><br><br>
+### For further insight into my professional credentials see my CV [here.](https://acrobat.adobe.com/id/urn:aaid:sc:eu:9a853780-d4eb-4ffc-82b6-351169eeb098) <br><br><br>
 
 ### Some of my most used Languages and Tools include:
 <p align="left"> 
